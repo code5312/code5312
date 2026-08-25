@@ -1,5 +1,5 @@
-<h1 align="center">Hello, World!!! 👋, </h1>
-<h3 align="center">서버 · AI · 보안에 관심 있는 개발자입니다. C, Python 스택으로 프로젝트를 진행하고 있습니다.</h3>
+<h1 align="center">Hello, World!!! 👋</h1>
+<h3 align="center">I'm a developer interested in servers, AI, and security. I build projects using C and Python.</h3>
 
 <br/>
 
@@ -12,30 +12,30 @@
 
 <br/>
 
-### 🚀 대표 프로젝트
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <h4>🎯 AI-Programming</h4>
-      <p>RandomForest 기반 시간표 추천 시스템. 사용자 데이터를 학습해 최적의 시간표를 추천합니다.</p>
+      <p>A RandomForest-based timetable recommendation system that learns from user data to suggest optimal schedules.</p>
       <a href="https://github.com/code5312/AI-Programming">🔗 Repository</a>
     </td>
     <td width="50%">
       <h4>🔐 DNS-attack-detection-and-defense</h4>
-      <p>DNS 공격을 탐지하고 방어하는 보안 프로젝트입니다.</p>
+      <p>A defensive security project for detecting and blocking DNS-based attacks.</p>
       <a href="https://github.com/code5312/DNS-attack-detection-and-defense">🔗 Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h4>🎣 Multimodal_Phishing_Detection_Project</h4>
-      <p>멀티모달 데이터를 활용한 피싱 탐지 프로젝트입니다.</p>
+      <p>A phishing detection project that combines URL and HTML features in a multimodal model.</p>
       <a href="https://github.com/code5312/Multimodal_Phishing_Detection_Project">🔗 Repository</a>
     </td>
     <td width="50%">
       <h4>🖥️ _CPSS_ICS_Server</h4>
-      <p>산업제어시스템(ICS) 관련 레드티밍 서버 프로젝트입니다.</p>
+      <p>An industrial control system (ICS) server project built for red-teaming practice.</p>
       <a href="https://github.com/code5312/_CPSS_ICS_Server">🔗 Repository</a>
     </td>
   </tr>
