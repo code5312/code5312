@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 민규</h1>
+<h1 align="center">Hello,World 👋</h1>
 <h3 align="center">서버 · AI · 보안에 관심 있는 개발자입니다. C, Python 스택으로 프로젝트를 진행하고 있습니다.</h3>
 
 <br/>
