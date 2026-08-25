@@ -1,4 +1,4 @@
-<h1 align="center">Hello,World 👋</h1>
+<h1 align="center">Hello, World!!! 👋, </h1>
 <h3 align="center">서버 · AI · 보안에 관심 있는 개발자입니다. C, Python 스택으로 프로젝트를 진행하고 있습니다.</h3>
 
 <br/>
@@ -35,7 +35,7 @@
     </td>
     <td width="50%">
       <h4>🖥️ _CPSS_ICS_Server</h4>
-      <p>산업제어시스템(ICS) 관련 서버 프로젝트입니다.</p>
+      <p>산업제어시스템(ICS) 관련 레드티밍 서버 프로젝트입니다.</p>
       <a href="https://github.com/code5312/_CPSS_ICS_Server">🔗 Repository</a>
     </td>
   </tr>
@@ -46,12 +46,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code5312&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=code5312&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code5312&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="42%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code5312&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=code5312&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <br/>
@@ -60,4 +60,5 @@
 
 <p align="center">
   <a href="https://github.com/code5312"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:mingue653@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
